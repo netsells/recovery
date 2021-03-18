@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/recovery",
+    "name": "netsells/recovery",
     "type": "library",
     "description": "Create recovery codes for two factor auth",
     "keywords": [
@@ -24,7 +24,7 @@
         }
     ],
     "require": {
-        "php" : "~7.0",
+        "php" : ">=7.0",
         "pragmarx/random" : "~0.1"
     },
     "require-dev": {
